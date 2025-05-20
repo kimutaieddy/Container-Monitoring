@@ -1,0 +1,6 @@
+devops-practice/
+├── app/
+│   ├── app.py
+│   └── requirements.txt
+├── Dockerfile
+└── README.md
